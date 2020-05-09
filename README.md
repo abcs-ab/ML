@@ -157,7 +157,7 @@ The repository presents "from scratch" implementation of the above algorithms, b
 
   * The `alpha_selection_helper` method can be helpful if you want to find a satisfying learning rate for gradient descent approach.
 
-![image.png](attachment:image.png)
+![image.png](alpha_pic.png)
 
   * Please, feel free to contact me if you find a bug, typo or have some questions.
 
